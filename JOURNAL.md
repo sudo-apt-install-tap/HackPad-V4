@@ -14,16 +14,16 @@
 
 ## Contents
 
-1. [2026-10-07 – SO!! I MADE A VERY CUTE-SY Schematic today!!](#2026-10-07-so-i-made-a-very-cute-sy-schematic-today)
+1. [2026-10-07 – # SO!! I MADE A VERY CUTE-SY Schematic today!!](#2026-10-07-so-i-made-a-very-cute-sy-schematic-today)
 2. [2026-10-08 – Did layout and completed routing!](#2026-10-08-did-layout-and-completed-routing)
 
 ## Design
 
-### 2026-10-07 – SO!! I MADE A VERY CUTE-SY Schematic today!!
+### 2026-10-07 – # SO!! I MADE A VERY CUTE-SY Schematic today!!
 
 **4h**
 
-SO!! I MADE A VERY CUTE-SY Schematic today!!
+# SO!! I MADE A VERY CUTE-SY Schematic today!!
 
 Well it is cute and functional!
 
