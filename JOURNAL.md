@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 2 |
+| Week 1 | Tier 1 | 7h | 2 |
 
 ## Contents
 
@@ -46,7 +46,7 @@ Features Of This Hackpad:-
 
 ### 2026-10-08 – Did layout and completed routing!
 
-**3h**
+**4h**
 
 Did layout and completed routing!
 
@@ -59,3 +59,5 @@ It was easy enough though i had to design my own iteration of the sk6812 mini-e 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/4fa602a198de8c01615df959c68379009bb9fbc6808a749857a45546cd398f12.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/3a41b75c03416add70f6519afd7e16d335e8003bf9b819c2b752b9b20f90058b.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/6b91f240aa06f84a269c6e2d6d74bfef07a4340b3514148f59f0d866f10123d4.png)
