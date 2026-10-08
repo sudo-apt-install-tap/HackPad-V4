@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7h | 2 |
+| Week 1 | Tier 1 | 4h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-07 – # SO!! I MADE A VERY CUTE-SY Schematic today!!
 
-**4h**
+**1h**
 
 # SO!! I MADE A VERY CUTE-SY Schematic today!!
 
