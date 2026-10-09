@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -78,7 +78,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "warning",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -657,17 +657,17 @@
     "top_level_sheets": [
       {
         "filename": "pcb.kicad_sch",
-        "name": "pcb",
-        "uuid": "5066f3c2-95e1-47ef-92b1-0acc83748dba"
+        "name": "",
+        "uuid": "4774a60f-350e-4297-a9bd-678fe5ef49cf"
       }
     ],
-    "used_designators": "D1-12",
+    "used_designators": "#PWR1-7,U1-2,SW1-13,D1-18",
     "variants": []
   },
   "sheets": [
     [
-      "5066f3c2-95e1-47ef-92b1-0acc83748dba",
-      "pcb"
+      "4774a60f-350e-4297-a9bd-678fe5ef49cf",
+      ""
     ]
   ],
   "text_variables": {},
