@@ -4,7 +4,7 @@
 
 <h1>
   <b>
-    Taps Macropad V3
+    HackPad v4
   </b> 
 </h1>
 
