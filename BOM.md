@@ -19,7 +19,7 @@
 | [0.91 inch 128x32 Blue OLED Display Module with I2C/IIC Serial Interface](https://robu.in/product/blue-oled-display-module/) | 2.32cm(0.91inch) I2C/IIC Blue Color OLED Display Module offers 128×32 pixel resolution. | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in/product/blue-oled-display-module/) |
 | [1N4148W-7-F-Diodes Incorporated-100V Independent Type 1.25V@150mA 4ns 300mA SOD-123 Switching Diodes ROHS](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) | Diodes | 20 | $0.03 | $0.60 | [Robu.in](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) |
 | **Parts subtotal** | — | — | — | **$18.60** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$18.60** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$23.60** | — |
 
-$11.40 left of the tier's funding.
+$6.40 left of the tier's funding.
