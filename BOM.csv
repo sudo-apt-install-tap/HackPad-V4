@@ -1,0 +1,12 @@
+Part,What its for,Qty,Unit,Total,Vendor
+"PCB","Printed circuit board",1,$5.00,$5.00,JLCPCB
+"Gateron Milky PRO Switch – 5pin","Switches that THOCC",1,$2.50,$2.50,MecKeys
+"Blank DSA Keycaps (1u) [Pack of 5]","Keycaps",2,$1.25,$2.50,MecKeys
+"Seeed Studio XIAO RP2040 v1.0","MCU",1,$6.00,$6.00,Robu.in
+"0.91 inch 128x32 Blue OLED Display Module with I2C/IIC Serial Interface","2.32cm(0.91inch) I2C/IIC Blue Color OLED Display Module offers 128×32 pixel resolution.",1,$2.00,$2.00,Robu.in
+"1N4148W-7-F-Diodes Incorporated-100V Independent Type 1.25V@150mA 4ns 300mA SOD-123 Switching Diodes ROHS","Diodes",20,$0.03,$0.60,Robu.in
+"sk6812 mini-e","Backlight",9,$0.00,$0.00,Self sourced
+"Print legion","Case 3d printing",1,$6.40,$6.40,Print Legion
+"Parts subtotal","—","—","—",$25.00,"—"
+"Tax & shipping","—","—","—",$5.00,"—"
+"Total","—","—","—",$30.00,"—"
