@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 17h | 5 |
+| Week 1 | Tier 1 | 18h | 5 |
 
 ## Contents
 
@@ -143,7 +143,7 @@ It was easy enough I added 1mm clearance to each side, added an angel of 4deg to
 
 ### 2026-10-11 – # Code and CAD Finishing: laying the last bricks.
 
-**3h**
+**4h**
 
 # Code and CAD Finishing: laying the last bricks.
 
@@ -164,3 +164,9 @@ I added the mx keys and the oled display STEP parts in KiCAD. This is the final 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/8552538e6835c88128bcca39a6117ef18f7c1acf5b8db683a4cae6a855e44133.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/275a9ba86751962bfa11232caf1c988d285ab89742c2fd36d653e1f78ac5ad93.png)
+
+-  Github: One less nightmare to go!
+
+So I did all the work that was required on github and yeah everything looks okay. This will be the end of this journal log
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CNJdyyJ4I8fzZ0Pr2VdvErZElnDPPMWi/16c5e3d1631f2f70cf3b52880bc577501cb641ccedd286de691bdec28f918d2e.png)
