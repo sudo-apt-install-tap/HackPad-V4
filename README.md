@@ -57,3 +57,17 @@ CAD files are available at [CAD](https://cad.onshape.com/documents/d76080119db72
 
 
 ## BOM
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [PCB](https://jlcpcb.com/) | Printed circuit board | 1 | $5.00 | $5.00 | [JLCPCB](https://jlcpcb.com/) |
+| [Gateron Milky PRO Switch – 5pin](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-pro-switch-5pin/?attribute_pa_gateron-key-switches=pro-milky-yellow) | Switches that THOCC | 1 | $2.50 | $2.50 | [MecKeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-pro-switch-5pin/?attribute_pa_gateron-key-switches=pro-milky-yellow) |
+| [Blank DSA Keycaps (1u) [Pack of 5]](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_keycap-theme=black) | Keycaps | 2 | $1.25 | $2.50 | [MecKeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_keycap-theme=black) |
+| [Seeed Studio XIAO RP2040 v1.0](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | MCU | 1 | $6.00 | $6.00 | [Robu.in](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
+| [0.91 inch 128x32 Blue OLED Display Module with I2C/IIC Serial Interface](https://robu.in/product/blue-oled-display-module/) | 2.32cm(0.91inch) I2C/IIC Blue Color OLED Display Module offers 128×32 pixel resolution. | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in/product/blue-oled-display-module/) |
+| [1N4148W-7-F-Diodes Incorporated-100V Independent Type 1.25V@150mA 4ns 300mA SOD-123 Switching Diodes ROHS](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) | Diodes | 20 | $0.03 | $0.60 | [Robu.in](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) |
+| [sk6812 mini-e](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) | Backlight | 9 | $0.00 | $0.00 | [self sourced](https://robu.in/product/1n4148w-7-f-diodes-incorporated-100v-independent-type-1-25v150ma-4ns-300ma-sod-123-switching-diodes-rohs/) |
+| [Print legion](https://hackclub.slack.com/archives/C083P4FJM46/p1791742458204589) | Case 3d printing | 1 | $6.40 | $6.40 | [Print Legion](https://hackclub.slack.com/archives/C083P4FJM46/p1791742458204589) |
+| **Parts subtotal** | — | — | — | **$25.00** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$30.00** | — |
